@@ -21,12 +21,12 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
+Here's a walkthrough of implemented features: https://drive.google.com/file/d/1Q6iHHGpJdsmKkT2dmtt4ZPOOrYXH3bOg/view?usp=share_link
+I tried to create a gif but there were some issues, this is a grive link to the video you can access it.
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<GIF created with ... > 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenge was good i got to learn a few new things.
 
 ## License
 
